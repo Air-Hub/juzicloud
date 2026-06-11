@@ -1,6 +1,10 @@
 # JuziCloud 桔子云 官方网站链接
 
-最新官网：[juzi610.com](https://juzi62.xyz/auth/register?code=jPPo)
+| 类型      | 地址                                                |
+| ------- | ------------------------------------------------- |
+|最新官网 | [juzi52.net](https://juzi52.net/auth/register?code=jPPo) |
+| 官方备用地址1 | [juzi52.xyz](https://juzi52.xyz/auth/register?code=jPPo) |
+| 官方备用地址2 | [juzi62.xyz](https://juzi62.xyz/auth/register?code=jPPo) |
 
 ## 桔子云服务概述
 
@@ -12,7 +16,7 @@
 
 **优惠码：** `JJ1234`
 
-**优惠有效期：** 2026年1月31日
+**优惠有效期：** 2026年6月30日
 
 ## 桔子云平台特色
 
